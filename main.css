@@ -70,18 +70,17 @@ h2 {
     color: #ffffff80 ;
     font-style: italic;
 }
-#bottom-join-button {
+#bottom-join-a {
     font-family: 'Montserrat', sans-serif;
     display: inline-block;
-    line-height: 5em;
-    font-size: 2em;
+    font-size: 4em;
     transition: .25s;
 }
 
-#bottom-join-button:hover {
+#bottom-join-a:hover {
     transform: scale(1.2);
     text-shadow: 0 0 1em #f5e1cd;
-    color: #f5e1cd
+    color: #f5e1cd;
 }
 #bottom-bar {
     width: 100%;

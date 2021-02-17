@@ -95,7 +95,7 @@ h2 {
     font-style: italic;
     transform: translateY(4em);
 }
-@media only screen and (min-width: 1360px){
+@media only screen and (min-width: 1380px){
     #exclave-li {
         font-family: 'Montserrat', sans-serif;
         font-size: 4em;
@@ -111,7 +111,7 @@ h2 {
         transition: .25s;
     }
 }
-@media screen and (max-width: 1360px) {
+@media screen and (max-width: 1380px) {
     #exclave-li {
         font-family: 'Montserrat', sans-serif;
         font-size: 2em;

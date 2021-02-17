@@ -1,2 +1,2 @@
-# Catalyst
+# The Exclave
  Discord website

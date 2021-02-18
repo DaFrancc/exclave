@@ -167,10 +167,10 @@ h2 {
     }
     button {
         float: right;
-        transform: translateY(-600%);
+        transform: translateY(-850%);
         margin: .5em;
         font-family: 'Roboto', sans-serif;
-        font-size: 1.5em;
+        font-size: 1em;
         color: #deb992;
         background-color: #00000000;
         border-color: #00000000;
@@ -178,7 +178,7 @@ h2 {
         transition: .25s;
     }
     button:hover {
-        transform: scale(1.2) translateY(-500%);
+        transform: scale(1.2) translateY(-705%);
         text-shadow: 0 0 1em #f5e1cd;
         color: #f5e1cd
     }

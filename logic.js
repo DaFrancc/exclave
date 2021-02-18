@@ -1,5 +1,5 @@
 var isUp = false;
-function toggleTab(t) {
+function toggleTab() {
     let nav = document.getElementById("nav-tab");
     let tb = document.getElementById("top-bar");
     if (window.matchMedia("(orientation: portrait)").matches) {
@@ -28,3 +28,5 @@ function toggleTab(t) {
         }
     }
 }
+
+window.DeviceOrientationEvent = () => {toggleTab();}

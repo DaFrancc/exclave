@@ -35,7 +35,6 @@ a {
     margin-top: 2em;
     margin-bottom: 2em;
     border-bottom: .1em solid #deb992;
-    transition: .25s;
 }
 #textbox p {
     text-align: left;

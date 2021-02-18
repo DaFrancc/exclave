@@ -125,6 +125,12 @@ h2 {
         background-color: #00000000;
         border-color: #00000000;
         white-space: nowrap;
+        transition: .25s;
+    }
+    button:hover {
+        transform: scale(1.2) translateY(-665%);
+        text-shadow: 0 0 1em #f5e1cd;
+        color: #f5e1cd
     }
 }
 @media screen and (max-width: 1380px) {
@@ -169,5 +175,11 @@ h2 {
         background-color: #00000000;
         border-color: #00000000;
         white-space: nowrap;
+        transition: .25s;
+    }
+    button:hover {
+        transform: scale(1.2) translateY(-500%);
+        text-shadow: 0 0 1em #f5e1cd;
+        color: #f5e1cd
     }
 }

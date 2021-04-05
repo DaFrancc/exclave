@@ -151,7 +151,7 @@ h2 {
     #nav-tab {
         text-align: center;
         box-sizing: border-box;
-        transform: translateY(-200%);
+        transform: translateY(-250%);
         transition: .5s;
     }
     #nav-tab li:hover {
